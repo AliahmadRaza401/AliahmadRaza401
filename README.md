@@ -16,3 +16,14 @@ Hello ! I'm Ali Raza, Senior Flutter Developer who loves to solve real-world pro
 
 ## 📊 GitHub Stats:
 <img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=AliahmadRaza401&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliahmadRaza401&theme=highcontrast&hide_border=false" height=150px><br/><br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)<br><br>
+
+## 
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/akansha1611) 
+
+---
+<img src="https://komarev.com/ghpvc/?username=AliahmadRaza401&label=visitors&color=blue&style=flat" alt="AliahmadRaza401" />
